@@ -29,9 +29,10 @@ This GitHub repository showcases an extensive data analysis project that employs
 - **Data Validation**: Implementation of data validation rules to ensure the consistency and quality of data.
 
 - **Macros**: Automation of repetitive tasks and processes through Excel macros to enhance overall efficiency.
+  
 <img width="639" alt="Screenshot 2023-11-07 at 22 55 21" src="https://github.com/Osigwem/MS_Excel-Project/assets/146824911/55be40ee-5b61-454a-a37c-4b08ccb43e17">
-## About Me
 
+## About Me
 I am a passionate data analyst with a deep interest in transforming data into meaningful insights. This project represents a practical demonstration of my skills in Excel and data analysis.
 
 ## License
